@@ -1,0 +1,402 @@
+[
+  {
+    "question": "How can I open a bank account?",
+    "response": "You can usually open an account online or at a branch. You will need to complete the application, provide required identity and address documents, and complete any verification required by the bank."
+  },
+  {
+    "question": "What documents are needed to open an account?",
+    "response": "Requirements vary by account type and country. In India, banks commonly request PAN or Form 60, an accepted identity/address document, a photograph where required, and KYC verification. Check your bank's current list before applying."
+  },
+  {
+    "question": "What is a savings account?",
+    "response": "A savings account is a deposit account for everyday banking that may pay interest on the eligible balance. Features, fees, interest rates, and minimum-balance rules depend on the bank and account variant."
+  },
+  {
+    "question": "What is a current account?",
+    "response": "A current account is generally designed for businesses and frequent transactions. It may offer payment and cash-management features, and usually has different fees and interest rules from a savings account."
+  },
+  {
+    "question": "What is the difference between a savings and current account?",
+    "response": "Savings accounts are typically used for personal saving and everyday banking, while current accounts are generally intended for businesses or high-volume transactions. Eligibility, charges, and interest terms vary by bank."
+  },
+  {
+    "question": "Is there a minimum balance requirement?",
+    "response": "Some accounts require a minimum balance, while others are zero-balance or have special exemptions. Review your account's schedule of charges or ask the bank to confirm the rule that applies to you."
+  },
+  {
+    "question": "What happens if I do not maintain the minimum balance?",
+    "response": "Depending on the account terms, the bank may charge a fee or may not impose a penalty at all. Check the latest schedule of charges and ask the bank how to avoid any applicable fee."
+  },
+  {
+    "question": "How do I check my account balance?",
+    "response": "You can usually check through mobile or internet banking, an ATM, an authorised phone service, a passbook, or a branch. Use only official bank channels and never share your PIN or OTP."
+  },
+  {
+    "question": "How can I get a bank statement?",
+    "response": "Download a statement through official mobile or internet banking if available, request one through customer support, or visit a branch. Some statement formats or older periods may require a request or fee."
+  },
+  {
+    "question": "How do I update my address?",
+    "response": "Use your bank's approved address-update process, which may be available online or at a branch. You may need to submit an accepted proof of address and complete verification."
+  },
+  {
+    "question": "How can I update my mobile number?",
+    "response": "Follow the bank's official process, which may require an ATM, branch visit, or secure online verification. Do not use links from unsolicited messages or disclose OTPs to anyone claiming to help."
+  },
+  {
+    "question": "How do I update my email address?",
+    "response": "Update it through the bank's verified app, internet banking, or branch process. The bank may send a verification code or confirmation to complete the change."
+  },
+  {
+    "question": "What is KYC and why is it required?",
+    "response": "KYC means Know Your Customer. Banks use it to verify identity and address and to meet regulatory requirements. Keep your information current and submit documents only through approved bank channels."
+  },
+  {
+    "question": "How can I complete pending KYC?",
+    "response": "Check the notification in the official bank app or contact the bank using a verified phone number or website. Follow the bank's instructions for document submission or in-person verification."
+  },
+  {
+    "question": "Why has my account become inactive or dormant?",
+    "response": "An account may be classified as inactive or dormant after a period without customer-initiated transactions, according to applicable rules. Contact your bank to confirm the status and complete any reactivation steps."
+  },
+  {
+    "question": "How do I reactivate a dormant account?",
+    "response": "Contact the bank or visit a branch with the required identification. The bank may ask you to update KYC and complete a customer request before restoring normal transactions."
+  },
+  {
+    "question": "Can I have more than one bank account?",
+    "response": "In many jurisdictions you can hold accounts with multiple banks, subject to the banks' eligibility and compliance requirements. Keep track of account fees, credentials, and tax or reporting obligations."
+  },
+  {
+    "question": "How do I close my bank account?",
+    "response": "Submit a closure request through the bank's accepted channel, settle outstanding dues, and move any recurring payments or deposits. Ask about remaining balances, linked services, and any closure fee before proceeding."
+  },
+  {
+    "question": "Can I open a joint account?",
+    "response": "Many banks offer joint accounts. Applicants typically provide identity and KYC information and choose an operating mandate, such as either holder or all holders jointly, subject to bank rules."
+  },
+  {
+    "question": "What is a nominee in a bank account?",
+    "response": "A nominee is a person recorded to receive eligible account proceeds under applicable rules if the account holder dies. Nomination does not replace legal requirements in every situation; ask the bank how to add or update one."
+  },
+  {
+    "question": "How do I apply for a debit card?",
+    "response": "Request one through the bank's official app, internet banking, or branch if your account is eligible. Check issuance, annual, replacement, and delivery charges before confirming."
+  },
+  {
+    "question": "What should I do if my debit card is lost?",
+    "response": "Immediately block or freeze the card using the official app, helpline, or other bank-approved channel. Review recent transactions and report any unauthorised activity promptly."
+  },
+  {
+    "question": "How do I activate a new debit card?",
+    "response": "Follow the instructions supplied by your bank, which may involve an ATM, secure app, internet banking, or a verified activation process. Never share your PIN or OTP with another person."
+  },
+  {
+    "question": "How can I change my debit card PIN?",
+    "response": "Use an official bank ATM, app, internet banking, or another bank-approved method. Choose a PIN that is hard to guess and do not write it on the card."
+  },
+  {
+    "question": "What should I do if I forget my card PIN?",
+    "response": "Use the bank's official PIN reset or generation process. The bank may verify your identity before allowing a new PIN to be set."
+  },
+  {
+    "question": "Why was my card transaction declined?",
+    "response": "Possible reasons include insufficient funds, a card limit, incorrect details, an expired or blocked card, merchant restrictions, or a security check. Check your bank's alert or contact support through an official channel."
+  },
+  {
+    "question": "How do I dispute an unauthorised card transaction?",
+    "response": "Lock the card if possible and report the transaction to your bank immediately through its official dispute channel. Keep the reference number and follow the bank's instructions; timelines and liability rules depend on applicable regulations and circumstances."
+  },
+  {
+    "question": "How do I increase my debit card limit?",
+    "response": "Check the card-control settings in your bank's official app or internet banking, or contact the bank. Any change is subject to the bank's available limits and security checks."
+  },
+  {
+    "question": "Can I use my debit card internationally?",
+    "response": "This depends on the card network, account settings, country restrictions, and bank policy. Confirm international usage, fees, exchange-rate treatment, and daily limits before travelling."
+  },
+  {
+    "question": "What are the charges for using an ATM?",
+    "response": "Charges can depend on the bank, account type, ATM owner, transaction type, and the number of free transactions used. Refer to the current schedule of charges for your account."
+  },
+  {
+    "question": "How do I report a failed ATM cash withdrawal?",
+    "response": "Check whether the amount was debited and note the ATM location, date, time, and transaction details. Raise a complaint with your bank promptly and retain the complaint reference."
+  },
+  {
+    "question": "What should I do if an ATM retains my card?",
+    "response": "Contact the bank using its official support channel and follow its instructions. Do not accept help from strangers or disclose your PIN; the card may need to be blocked and replaced."
+  },
+  {
+    "question": "How can I replace an expired card?",
+    "response": "The bank may issue a replacement automatically or require a request. Confirm the delivery address and activation steps through the official bank channel."
+  },
+  {
+    "question": "What is a contactless card payment?",
+    "response": "Contactless payments use a supported card or device held near a compatible payment terminal. Transaction limits and when a PIN or other verification is required depend on the bank, network, and local rules."
+  },
+  {
+    "question": "Why is my card blocked?",
+    "response": "A bank may block a card because it was reported lost, entered incorrect PINs repeatedly, expired, or triggered a security control. Contact the bank through a verified channel to confirm the reason and next steps."
+  },
+  {
+    "question": "How do I register for mobile banking?",
+    "response": "Install the bank's official app from a trusted app store and follow its registration steps. Use the phone number registered with the bank and complete the requested verification."
+  },
+  {
+    "question": "How do I register for internet banking?",
+    "response": "Use the bank's official website and select its registration or first-time-user option if available. Verify the website address carefully and never enter credentials through a link in an unsolicited message."
+  },
+  {
+    "question": "I forgot my internet banking password. What should I do?",
+    "response": "Use the official password-reset option or contact the bank's verified support team. Do not share your existing password, OTP, or recovery code with anyone."
+  },
+  {
+    "question": "Why can I not log in to mobile banking?",
+    "response": "Check your internet connection, app version, registered device or number, and whether the bank has announced maintenance. If the problem persists, contact official support and avoid repeated attempts if your access may be locked."
+  },
+  {
+    "question": "Is mobile banking safe?",
+    "response": "It can be safe when you use the official app, keep your device updated, protect your screen lock, and avoid public or shared devices for sensitive transactions. Never share OTPs, PINs, or passwords."
+  },
+  {
+    "question": "What is internet banking?",
+    "response": "Internet banking lets customers access supported banking services through a bank's official website, such as viewing balances, transferring funds, and paying bills, subject to account access and security controls."
+  },
+  {
+    "question": "What is an OTP?",
+    "response": "An OTP is a one-time password used to verify certain actions. Enter it only in the legitimate transaction or bank flow you initiated; bank staff should not ask you to reveal it over a call or message."
+  },
+  {
+    "question": "What should I do if I receive an OTP I did not request?",
+    "response": "Do not share or enter it. Do not approve any unexpected request. Contact your bank through its official channel if you suspect someone is attempting to access your account."
+  },
+  {
+    "question": "How do I enable transaction alerts?",
+    "response": "Check notification and alert settings in your bank's app or internet banking, or ask the bank for available SMS or email alerts. Keep your registered contact details current."
+  },
+  {
+    "question": "Why is the banking app temporarily unavailable?",
+    "response": "The service may be undergoing maintenance or experiencing a technical issue. Try again later, check official bank announcements, and use another verified channel for urgent needs."
+  },
+  {
+    "question": "How do I safely use QR codes for payments?",
+    "response": "Scan only a code you trust and verify the recipient and amount before authorising payment. Receiving money generally does not require entering a UPI PIN; never enter a PIN to claim a refund or receive funds."
+  },
+  {
+    "question": "Can I use banking services while travelling abroad?",
+    "response": "Some services may work internationally, but access can depend on your bank, registered phone, security checks, local laws, and network availability. Confirm travel access and roaming or international transaction settings in advance."
+  },
+  {
+    "question": "How do I log out securely?",
+    "response": "Use the app or website's sign-out option, especially on shared devices. Close the browser when appropriate and never save banking passwords on a public computer."
+  },
+  {
+    "question": "How do I transfer money to another account?",
+    "response": "Use a supported method such as UPI, IMPS, NEFT, RTGS, or the bank's internal transfer service. Verify the beneficiary details and amount before confirming."
+  },
+  {
+    "question": "What is UPI?",
+    "response": "UPI is an instant payment system in India that allows supported bank accounts to send and receive money through participating apps. Limits and features depend on the bank, app, transaction type, and applicable rules."
+  },
+  {
+    "question": "What is the difference between NEFT, RTGS, and IMPS?",
+    "response": "They are electronic transfer systems with different processing models, availability, and minimum or maximum transaction rules. Check your bank's current terms and the payment system's applicable rules before choosing."
+  },
+  {
+    "question": "How long does a bank transfer take?",
+    "response": "Timing depends on the transfer method, bank systems, beneficiary details, and any security review. Some methods are near-instant while others may take longer; use the transaction reference to track delays."
+  },
+  {
+    "question": "What should I do if money is debited but the transfer failed?",
+    "response": "Check the transaction status and wait for any stated reversal period. If the money is not returned within the applicable timeframe, raise a complaint with your bank and keep the transaction reference."
+  },
+  {
+    "question": "I transferred money to the wrong account. Can it be reversed?",
+    "response": "Contact your bank immediately and provide the transaction reference and correct details. Recovery is not guaranteed and may depend on the payment method, recipient bank, and applicable rules."
+  },
+  {
+    "question": "How do I add a beneficiary?",
+    "response": "Use the beneficiary-management section in official internet or mobile banking. Verify the account number, bank details, and name carefully; some banks apply a cooling period or transfer limits for new beneficiaries."
+  },
+  {
+    "question": "Why is there a waiting period after adding a beneficiary?",
+    "response": "Banks may apply a cooling period or lower limits as a security measure to reduce fraud. The length and restrictions depend on the bank's policy."
+  },
+  {
+    "question": "What is a UPI PIN?",
+    "response": "A UPI PIN authorises eligible UPI transactions from your linked bank account. Keep it secret and enter it only in your trusted payment app when you intend to authorise a transaction."
+  },
+  {
+    "question": "I sent money through UPI to the wrong person. What should I do?",
+    "response": "Report the transaction promptly in your payment app and to your bank, using the official dispute or complaint process. Share the transaction ID, but never share your UPI PIN or OTP. Recovery is not guaranteed."
+  },
+  {
+    "question": "What should I do if a UPI payment is pending?",
+    "response": "Check the status in the app and avoid making repeated payments until you understand the result. Follow the app or bank's stated resolution timeline, then raise a complaint with the transaction ID if needed."
+  },
+  {
+    "question": "How can I set up a standing instruction or recurring payment?",
+    "response": "Look for the recurring payment or mandate option in official banking channels or contact the bank. Review the amount, frequency, start and end dates, and cancellation terms before authorising it."
+  },
+  {
+    "question": "Can I cancel a bank transfer after submitting it?",
+    "response": "Some scheduled or pending transfers may be cancellable, but completed instant transfers often cannot be stopped directly. Contact the bank immediately to check the status and available options."
+  },
+  {
+    "question": "Why is my online bill payment not showing as paid?",
+    "response": "The biller may take time to update its records, or the payment may still be processing. Keep the receipt or reference number and contact the bank or biller if it remains unresolved."
+  },
+  {
+    "question": "How do I pay a credit card bill from my bank account?",
+    "response": "Use the bank's bill-payment feature, the card issuer's official channel, or another supported payment method. Verify the card details, amount, and due date, and allow enough time for the payment to be credited."
+  },
+  {
+    "question": "How can I apply for a personal loan?",
+    "response": "Apply through the bank's official website, app, or branch. Approval depends on eligibility, income, credit history, existing obligations, documents, and the bank's assessment."
+  },
+  {
+    "question": "What documents are usually needed for a loan?",
+    "response": "Requirements vary by loan type and applicant. Banks may ask for identity and address proof, income or employment evidence, bank statements, and information about existing obligations."
+  },
+  {
+    "question": "What is a credit score?",
+    "response": "A credit score is a numerical summary of credit-report information used by lenders as one input in assessing credit risk. Scoring models and ranges vary by credit bureau and country."
+  },
+  {
+    "question": "How can I improve my credit score?",
+    "response": "Pay dues on time, keep credit utilisation under control, avoid unnecessary applications, review your credit report for errors, and maintain accurate account information. Improvement takes time and cannot be guaranteed."
+  },
+  {
+    "question": "What is the difference between a fixed and floating interest rate?",
+    "response": "A fixed rate generally stays unchanged for a defined period or loan term, subject to the contract. A floating rate can change with a benchmark or lender reset rules, which may affect instalments or tenure."
+  },
+  {
+    "question": "How is my loan EMI calculated?",
+    "response": "An EMI generally depends on the principal, interest rate, and repayment tenure. The lender's calculation may also reflect product-specific terms, fees, and rate-reset rules."
+  },
+  {
+    "question": "Can I repay my loan early?",
+    "response": "Early or partial repayment may be permitted, but conditions and charges depend on the loan agreement and applicable regulations. Ask the lender for a current foreclosure or part-payment quote before paying."
+  },
+  {
+    "question": "What happens if I miss a loan EMI?",
+    "response": "You may incur late charges or additional interest, and missed payments can affect your credit history. Contact the lender as soon as possible to discuss the amount due and any available repayment options."
+  },
+  {
+    "question": "How can I get a loan repayment schedule?",
+    "response": "Request it through the lender's official app, website, customer service, or branch. The schedule typically shows instalment dates, principal, interest, and outstanding balance."
+  },
+  {
+    "question": "Why was my loan application rejected?",
+    "response": "Possible reasons include eligibility criteria, income or debt levels, credit history, incomplete documents, or internal lending policy. Ask the lender whether it can provide a reason and what, if anything, can be improved."
+  },
+  {
+    "question": "What is a secured loan?",
+    "response": "A secured loan is backed by collateral, such as property, a vehicle, or a deposit. If repayments are not made, the lender may have rights over the collateral under the agreement and applicable law."
+  },
+  {
+    "question": "What is a pre-approved loan offer?",
+    "response": "It is an indicative offer based on preliminary information and is not always a final approval. The lender may still verify documents, eligibility, and credit information before disbursing funds."
+  },
+  {
+    "question": "What is a fixed deposit?",
+    "response": "A fixed deposit places money with a bank for a chosen term at stated interest terms. Premature withdrawal, renewal, tax treatment, and penalties depend on the product and applicable rules."
+  },
+  {
+    "question": "How do I open a fixed deposit?",
+    "response": "Use the bank's official app, internet banking, or branch if eligible. Choose the deposit amount, tenure, interest payout option, and maturity instructions after reviewing the terms."
+  },
+  {
+    "question": "Can I withdraw a fixed deposit before maturity?",
+    "response": "Some fixed deposits allow premature withdrawal, often subject to a reduced interest rate or penalty. Certain products may have restrictions, so check the specific deposit terms."
+  },
+  {
+    "question": "What is a recurring deposit?",
+    "response": "A recurring deposit lets you contribute a chosen amount at regular intervals for a set tenure, earning interest according to the bank's product terms. Missed instalments may attract charges or affect returns."
+  },
+  {
+    "question": "How is savings account interest calculated?",
+    "response": "The calculation method and credit frequency depend on the bank and account terms, as well as applicable regulations. Check the current interest rate and how the bank calculates eligible balances."
+  },
+  {
+    "question": "Are bank deposits insured?",
+    "response": "Deposit insurance depends on the country, institution, depositor, and applicable limits and conditions. In India, check the current DICGC rules and coverage limits on the official DICGC website or with your bank."
+  },
+  {
+    "question": "Will my fixed deposit renew automatically?",
+    "response": "That depends on the maturity instruction you selected and the bank's terms. Review the maturity advice or deposit details and update instructions before the maturity date if needed."
+  },
+  {
+    "question": "What is a tax deduction on deposit interest?",
+    "response": "Tax may be deducted at source when applicable legal thresholds and conditions are met. Rules depend on your tax status and jurisdiction; consult the bank's tax guidance or a qualified tax adviser for your situation."
+  },
+  {
+    "question": "How can I report a banking fraud?",
+    "response": "Contact your bank immediately through its official fraud-reporting channel, block affected access or cards, and preserve transaction details and messages. In India, report cyber financial fraud promptly through the official national cybercrime helpline or portal as applicable."
+  },
+  {
+    "question": "What should I do if someone asks for my OTP or PIN?",
+    "response": "Do not share it. End the call or conversation and contact your bank using a verified number or app. Banks should not ask you to disclose your PIN, password, or OTP to process a refund or protect your account."
+  },
+  {
+    "question": "How can I identify a fake banking message?",
+    "response": "Be cautious of urgent threats, prize or refund claims, shortened links, spelling errors, and requests for passwords, OTPs, or remote access. Verify messages through the bank's official app or contact details rather than clicking the link."
+  },
+  {
+    "question": "What is phishing?",
+    "response": "Phishing is an attempt to trick people into revealing information or installing harmful software through fake messages, websites, calls, or attachments. Access banking services by typing the official address or using the verified app."
+  },
+  {
+    "question": "What should I do if I clicked a suspicious banking link?",
+    "response": "Do not enter further information or approve prompts. If you shared credentials, contact the bank immediately, change affected passwords through official channels, block compromised cards or access where appropriate, and scan your device for malware."
+  },
+  {
+    "question": "How do I complain about a bank service?",
+    "response": "Use the bank's official complaint portal, customer-care channel, or branch. Describe the issue, include relevant dates and reference numbers, and save the complaint acknowledgement for follow-up."
+  },
+  {
+    "question": "What if my bank does not resolve my complaint?",
+    "response": "Follow the bank's escalation process and check the regulator or ombudsman scheme applicable in your jurisdiction. In India, the RBI's complaint mechanisms may apply after the required conditions and timelines are met."
+  },
+  {
+    "question": "How can I track my complaint?",
+    "response": "Use the complaint reference number in the bank's official portal or provide it to verified customer support. Keep copies of relevant communications and note any stated response deadline."
+  },
+  {
+    "question": "What information should I never share with bank support?",
+    "response": "Never disclose your PIN, full password, OTP, CVV, or remote-access codes to someone contacting you. Use official support channels and provide only the information reasonably needed to identify your case."
+  },
+  {
+    "question": "How do I protect myself from loan or banking scams?",
+    "response": "Verify lenders and offers independently, avoid paying unexpected upfront fees to personal accounts, read the terms, and never grant remote device access to an unsolicited caller. Contact your bank or relevant authority if you suspect fraud."
+  },
+  {
+    "question": "How do I get a cheque book?",
+    "response": "Request one through the bank's official app, internet banking, or branch if your account is eligible. Confirm the delivery address and any applicable charges."
+  },
+  {
+    "question": "How do I stop payment on a cheque?",
+    "response": "Contact your bank promptly through an official channel and provide the cheque details. A stop-payment request may attract a fee and does not necessarily cancel obligations to the payee."
+  },
+  {
+    "question": "What should I do if a cheque bounces?",
+    "response": "Ask the bank for the return reason and any applicable charges. If you are the payee or issuer, follow the relevant legal and banking process and seek professional advice where needed."
+  },
+  {
+    "question": "How do I request a banker's cheque or demand draft?",
+    "response": "Ask your bank through its branch or supported digital service. You may need to provide the beneficiary name, amount, payment details, and applicable fee."
+  },
+  {
+    "question": "How can I get a balance certificate or interest certificate?",
+    "response": "Request the certificate through the bank's official app, website, customer support, or branch. Availability, format, processing time, and charges vary by bank."
+  },
+  {
+    "question": "How do I change my account's communication preferences?",
+    "response": "Check the profile or notification settings in official banking channels or submit a request to the bank. Some legal or security alerts may remain mandatory."
+  },
+  {
+    "question": "Can I link my account to a payment app?",
+    "response": "You can generally link an eligible account using a supported payment app and the bank's verification process. Download the app from a trusted source and verify the account and payment permissions before use."
+  }
+]
